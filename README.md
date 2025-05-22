@@ -38,6 +38,6 @@ This project is a simple yet engaging browser-based coin flipping game. It uses 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/flip-coin-game.git
+git clone [https://github.com/yourusername/flip-coin-game.git](https://github.com/Madhu-Naggari/flipcoin.git)
 
 # Open index.html in your browser
