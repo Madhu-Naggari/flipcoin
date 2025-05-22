@@ -53,6 +53,8 @@ flipcoin/
 ├── style.css
 ├── script.js
 └── Flip Coin Game.png
+```
+---
 
 ## 🧪 How to Run Locally
 
