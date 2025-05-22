@@ -47,7 +47,7 @@ This project is a simple yet engaging browser-based coin flipping game. It uses 
 ---
 
 ## 📂 Folder Structure
-
+```text
 flipcoin/
 ├── index.html
 ├── style.css
